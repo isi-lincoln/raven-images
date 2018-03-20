@@ -28,6 +28,12 @@ Templates can be found here: https://github.com/kaorimatz/packer-templates
 make -j`nproc`
 ```
 
+Not counting download speed, general times can range from 2-10 minutes
+
+Debian: 10 minutes
+
+Ubuntu: 2 minutes
+
 ### Other useful commands
 
 To clear out build artifacts

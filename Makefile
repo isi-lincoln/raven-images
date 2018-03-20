@@ -66,7 +66,7 @@ fedora-install: build/fedora/27/fedora-27
 ### Debian images
 ###
 DEBIAN_MIRROR=http://cdimage.debian.org/debian-cd
-STRETCH_BASE=debian-9.3.0-amd64-netinst.iso
+STRETCH_BASE=debian-9.4.0-amd64-netinst.iso
 STRETCH_URL=${DEBIAN_MIRROR}/current/amd64/iso-cd/${STRETCH_BASE}
 
 build/debian:
